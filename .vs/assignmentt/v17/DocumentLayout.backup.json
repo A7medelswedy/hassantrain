@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amras\\source\\repos\\assignmentt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02021BE7-2D59-4CEA-9853-CC229B35874D}|assignmentt.csproj|c:\\users\\amras\\source\\repos\\assignmentt\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02021BE7-2D59-4CEA-9853-CC229B35874D}|assignmentt.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02021BE7-2D59-4CEA-9853-CC229B35874D}|assignmentt.csproj|c:\\users\\amras\\source\\repos\\assignmentt\\viewmodel\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02021BE7-2D59-4CEA-9853-CC229B35874D}|assignmentt.csproj|solutionrelative:viewmodel\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02021BE7-2D59-4CEA-9853-CC229B35874D}|assignmentt.csproj|c:\\users\\amras\\source\\repos\\assignmentt\\viewmodel\\orderdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02021BE7-2D59-4CEA-9853-CC229B35874D}|assignmentt.csproj|solutionrelative:viewmodel\\orderdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02021BE7-2D59-4CEA-9853-CC229B35874D}|assignmentt.csproj|c:\\users\\amras\\source\\repos\\assignmentt\\views\\orders\\createorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02021BE7-2D59-4CEA-9853-CC229B35874D}|assignmentt.csproj|solutionrelative:views\\orders\\createorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02021BE7-2D59-4CEA-9853-CC229B35874D}|assignmentt.csproj|c:\\users\\amras\\source\\repos\\assignmentt\\views\\orders\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02021BE7-2D59-4CEA-9853-CC229B35874D}|assignmentt.csproj|solutionrelative:views\\orders\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02021BE7-2D59-4CEA-9853-CC229B35874D}|assignmentt.csproj|c:\\users\\amras\\source\\repos\\assignmentt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02021BE7-2D59-4CEA-9853-CC229B35874D}|assignmentt.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02021BE7-2D59-4CEA-9853-CC229B35874D}|assignmentt.csproj|c:\\users\\amras\\source\\repos\\assignmentt\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02021BE7-2D59-4CEA-9853-CC229B35874D}|assignmentt.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02021BE7-2D59-4CEA-9853-CC229B35874D}|assignmentt.csproj|c:\\users\\amras\\source\\repos\\assignmentt\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02021BE7-2D59-4CEA-9853-CC229B35874D}|assignmentt.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02021BE7-2D59-4CEA-9853-CC229B35874D}|assignmentt.csproj|c:\\users\\amras\\source\\repos\\assignmentt\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02021BE7-2D59-4CEA-9853-CC229B35874D}|assignmentt.csproj|solutionrelative:models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02021BE7-2D59-4CEA-9853-CC229B35874D}|assignmentt.csproj|c:\\users\\amras\\source\\repos\\assignmentt\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02021BE7-2D59-4CEA-9853-CC229B35874D}|assignmentt.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\amras\\source\\repos\\assignmentt\\ViewModel\\OrderDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\OrderDetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\amras\\source\\repos\\assignmentt\\ViewModel\\OrderDetailsViewModel.cs",
+              "RelativeToolTip": "ViewModel\\OrderDetailsViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:12:37.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\amras\\source\\repos\\assignmentt\\ViewModel\\OrderViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\OrderViewModel.cs",
+              "ToolTip": "C:\\Users\\amras\\source\\repos\\assignmentt\\ViewModel\\OrderViewModel.cs",
+              "RelativeToolTip": "ViewModel\\OrderViewModel.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T01:30:26.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\amras\\source\\repos\\assignmentt\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\amras\\source\\repos\\assignmentt\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAuwDMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T15:26:15.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\amras\\source\\repos\\assignmentt\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\amras\\source\\repos\\assignmentt\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T00:16:30.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetAll.cshtml",
+              "DocumentMoniker": "C:\\Users\\amras\\source\\repos\\assignmentt\\Views\\Orders\\GetAll.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orders\\GetAll.cshtml",
+              "ToolTip": "C:\\Users\\amras\\source\\repos\\assignmentt\\Views\\Orders\\GetAll.cshtml",
+              "RelativeToolTip": "Views\\Orders\\GetAll.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T17:44:38.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateOrder.cshtml",
+              "DocumentMoniker": "C:\\Users\\amras\\source\\repos\\assignmentt\\Views\\Orders\\CreateOrder.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orders\\CreateOrder.cshtml",
+              "ToolTip": "C:\\Users\\amras\\source\\repos\\assignmentt\\Views\\Orders\\CreateOrder.cshtml",
+              "RelativeToolTip": "Views\\Orders\\CreateOrder.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T16:29:35.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\amras\\source\\repos\\assignmentt\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\amras\\source\\repos\\assignmentt\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T00:14:59.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amras\\source\\repos\\assignmentt\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\amras\\source\\repos\\assignmentt\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T00:21:29.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\amras\\source\\repos\\assignmentt\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\amras\\source\\repos\\assignmentt\\Models\\OrderItem.cs",
+              "RelativeToolTip": "Models\\OrderItem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T00:17:19.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\amras\\source\\repos\\assignmentt\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\amras\\source\\repos\\assignmentt\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T00:15:58.985Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

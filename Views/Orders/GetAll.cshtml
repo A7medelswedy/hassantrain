@@ -1,0 +1,31 @@
+﻿@model assignmentt.ViewModel.OrderDetailsViewModel
+
+<h1>Order Details</h1>
+
+<div>
+    <p><strong>Order ID:</strong> @Model.OrderID</p>
+    <p><strong>Customer Name:</strong> @Model.CustomerName</p>
+    <p><strong>Order Date:</strong> @Model.OrderDate.ToShortDateString()</p>
+    <p><strong>Total Amount:</strong> @Model.TotalAmount</p>
+</div>
+
+<h3>Products in the Order</h3>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Product</th>
+            <th>Quantity</th>
+            <th>Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model.Products)
+        {
+            <tr>
+                <td>@product.ProductName</td>
+                <td>@product.Quantity</td>
+                <td>@product.Price</td>
+            </tr>
+        }
+    </tbody>
+</table>
